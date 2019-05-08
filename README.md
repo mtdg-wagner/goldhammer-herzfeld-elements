@@ -9,5 +9,5 @@ This repo is a demonstration of material classification based on an oscillator m
 # Data sources
 Atomic polarizability values are taken from the CRC Handbook of Chemistry and Physics 85th edition Chapter 10 page 168.
 Molar volumes are taken from Mathematica's ElementData function via [periodictable.com](https://periodictable.com/Properties/A/MolarVolume.an.log.html).
-Elemental conductivity values arealso from Mathematica.
+Elemental conductivity values are available from Mathematica and [Angstrom Sciences](https://www.angstromsciences.com/elements-electrical-conductivity).
 
