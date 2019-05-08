@@ -7,7 +7,7 @@ impressed on the system.
 He proposed that the corresponding element (viewed obviously as a collection of atoms)
 becomes metallic when the frequency of the oscillator placed in this dense, dielectric medium
 approaches zero; i.e. the valence electron is set free and the element—under those critical
-conditions—acquires metallic status. Assuming long range interactions are isotropic, the relevant equation is then:
+conditions—acquires metallic status. Assuming long range interactions are isotropic, the relevant equation from the Lorenz&ndash;Lorentz or Claussius&ndash;Mosotti relation is then:
 
 <img src="https://github.com/mtdg-wagner/goldhammer-herzfeld-elements/blob/master/CM_Relation.png" alt="C-M relation" width="400"/>
 
