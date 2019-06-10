@@ -17,6 +17,8 @@ Below, we reproduce one of the figures from the 2015 work of Friedrich Hensel, D
 
 ![HSE Fig 3](https://github.com/mtdg-wagner/goldhammer-herzfeld-elements/blob/master/RV_groups.png "Metallization of chemical elements")
 
+Here is a comparison from one cross-validation run using machine learning with 21 chemical features.
+![HSE Fig 3](https://github.com/mtdg-wagner/goldhammer-herzfeld-elements/blob/master/ML_classification.png "Machine learning classification")
 
 # Files
 * molar_refractivity.ipynb: Jupyter notebook containing data processing and plots
