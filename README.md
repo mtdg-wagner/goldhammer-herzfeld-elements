@@ -17,7 +17,7 @@ Below, we reproduce one of the figures from the 2015 work of Friedrich Hensel, D
 
 ![HSE Fig 3](https://github.com/mtdg-wagner/goldhammer-herzfeld-elements/blob/master/RV_groups.png "Metallization of chemical elements")
 
-Here is a comparison from one cross-validation run using machine learning with 21 chemical features.
+Using 21 chemical descriptors from the [Magpie feature set](https://www.nature.com/articles/npjcompumats201628), we train a machine learning model to also perform this classification. Here is a comparison from one cross-validation run.
 ![HSE Fig 3](https://github.com/mtdg-wagner/goldhammer-herzfeld-elements/blob/master/ML_classification.png "Machine learning classification")
 
 # Files
