@@ -1,5 +1,5 @@
 # Readme
-This repo is a demonstration of material classification based on the Goldhammer-Herzfeld criterion, and it's comparison with machine learning. Herzfeld’s theory is based
+This repo is a demonstration of material classification based on the Goldhammer-Herzfeld criterion, and its comparison with machine learning. Herzfeld’s theory is based
 on the classical (Lorentz) oscillator model of an atom. Herzfeld pointed out that electrons localized
 around atomic nuclei constitute polarizable objects and that their internal dynamics in the dense
 assembly of the element leads to local corrections to the polarizing tendency of any external field
