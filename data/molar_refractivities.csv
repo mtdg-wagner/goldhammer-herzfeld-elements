@@ -1,4 +1,4 @@
-Atomic number,Atom,Polarizability,PolarizabilityUnit,Estimate_accuracy(%),method,Ref,Molar Refracitivty,Molar volume,MolarVolumeUnit,R/V
+Atomic number,Atom,Polarizability,PolarizabilityUnit,Estimate_accuracy(%),method,Ref,Molar Refractivity,Molar volume,MolarVolumeUnit,R/V
 1,H,0.666793,1e-24 cm^3,“exact” ,calc ,MB77 ,1.68197831538352,0.01121,m^3/mol,0.000150042668634
 2,He,0.204956,1e-24 cm^3,“exact” ,calc ,MB77 ,0.516999350034787,0.022424,m^3/mol,2.30556256704775E-05
 2,He,0.205,1e-24 cm^3,0.1,index/diel ,NB65/OC67 ,0.517110339571085,0.022424,m^3/mol,2.3060575257362E-05
